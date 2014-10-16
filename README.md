@@ -1,3 +1,4 @@
 // README.md
 
-Figuring this git/github thing out!
+Many random commits to this repo.
+Learning as I go.

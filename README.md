@@ -1,3 +1,3 @@
 // README.md
 
-Trying to figure this git/github thing out. :)
+Figuring this git/github thing out!
